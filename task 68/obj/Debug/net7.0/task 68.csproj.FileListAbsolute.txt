@@ -1,0 +1,15 @@
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/Recursia/task 68/obj/Debug/net7.0/task 68.csproj.AssemblyReference.cache
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/Recursia/task 68/obj/Debug/net7.0/task 68.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/Recursia/task 68/obj/Debug/net7.0/task 68.AssemblyInfoInputs.cache
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/Recursia/task 68/obj/Debug/net7.0/task 68.AssemblyInfo.cs
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/Recursia/task 68/obj/Debug/net7.0/task 68.csproj.CoreCompileInputs.cache
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/Recursia/task 68/bin/Debug/net7.0/task 68
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/Recursia/task 68/bin/Debug/net7.0/task 68.deps.json
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/Recursia/task 68/bin/Debug/net7.0/task 68.runtimeconfig.json
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/Recursia/task 68/bin/Debug/net7.0/task 68.dll
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/Recursia/task 68/bin/Debug/net7.0/task 68.pdb
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/Recursia/task 68/obj/Debug/net7.0/task 68.dll
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/Recursia/task 68/obj/Debug/net7.0/refint/task 68.dll
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/Recursia/task 68/obj/Debug/net7.0/task 68.pdb
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/Recursia/task 68/obj/Debug/net7.0/task 68.genruntimeconfig.cache
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/Recursia/task 68/obj/Debug/net7.0/ref/task 68.dll
